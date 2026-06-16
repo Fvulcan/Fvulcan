@@ -7,7 +7,7 @@ I am currently building small but practical applications to improve my understan
 ## Current Focus
 
 - Backend development
-- Python and Java
+- Python, Java, and SQL
 - APIs and JSON data
 - Terminal applications
 - Data structures such as lists and dictionaries
