@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Francesco 👋
 
-<!--
-**Fvulcan/Fvulcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer focused on backend development and practical project-based learning.
 
-Here are some ideas to get you started:
+I am currently building small but practical applications to improve my understanding of application logic, APIs, data handling, and clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Backend development
+- Python and Java
+- APIs and JSON data
+- Terminal applications
+- Data structures such as lists and dictionaries
+- Error handling and input validation
+
+## Learning Goals
+
+- Build more complete backend-focused projects
+- Improve code structure
+- Work confidently with APIs
+- Strengthen problem-solving through practical development
