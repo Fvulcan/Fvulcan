@@ -1,21 +1,39 @@
-# Hi, I’m Francesco 👋
+# 👋 Hey, I'm Francesco
 
-Aspiring Software Developer focused on backend development and practical project-based learning.
+```java
+public class Francesco {
 
-I am currently building small but practical applications to improve my understanding of application logic, APIs, data handling, and clean code.
+    String role = "Software Developer";
 
-## Current Focus
+    String[] languages = {
+        "Java", "Python", "JavaScript",
+        "HTML", "CSS", "SQL"
+    };
 
-- Backend development
-- Python, Java, and SQL
-- APIs and JSON data
-- Terminal applications
-- Data structures such as lists and dictionaries
-- Error handling and input validation
+    String[] interests = {
+        "Backend Development",
+        "API Development",
+        "Cybersecurity"
+    };
+}
+```
 
-## Learning Goals
+## 🚀 About Me
 
-- Build more complete backend-focused projects
-- Improve code structure
-- Work confidently with APIs
-- Strengthen problem-solving through practical development
+- 💻 Software Developer from Germany
+- 📚 Currently expanding my full Stack Skills
+
+
+
+## 🛠 Tech Stack
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
