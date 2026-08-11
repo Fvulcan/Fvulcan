@@ -34,6 +34,6 @@ public class Francesco {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Swift Learning](https://img.shields.io/badge/Swift-Learning-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 
